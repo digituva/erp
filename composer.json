@@ -1,0 +1,11 @@
+{
+    "name": "erp/app",
+    "description": "Moduler ERP system",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
